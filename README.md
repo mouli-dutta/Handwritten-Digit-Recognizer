@@ -50,5 +50,6 @@ After training, the model achieves high accuracy on handwritten digits:
 
 ![Predictions](https://github.com/user-attachments/assets/734b5797-a083-4f56-9cf9-0ca2125da6bf)
 
+[🎥 Watch the Demo](https://github.com/user-attachments/assets/653bc210-9f01-4619-9418-fdc9eab0e3a9)
 
 
