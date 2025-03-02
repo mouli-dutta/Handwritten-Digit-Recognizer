@@ -18,14 +18,14 @@ pip install numpy matplotlib seaborn tensorflow pillow opencv-python
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/handwritten-digit-recognizer.git
-cd handwritten-digit-recognizer
+git clone https://github.com/mouli-dutta/Handwritten-Digit-Recognizer.git
+cd Handwritten-Digit-Recognizer
 ```
 
 ## 🏗️ How to Run
 Run the following command to start the digit recognition interface:
 ```sh
-python handwritten_digit_recognizer.py
+python Handwritten-Digit-Recognizer.py
 ```
 A **Tkinter GUI** will appear, allowing you to draw digits and see real-time predictions.
 
