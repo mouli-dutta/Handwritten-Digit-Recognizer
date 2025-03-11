@@ -23,11 +23,14 @@ cd Handwritten-Digit-Recognizer
 ```
 
 ## 🏗️ How to Run
-Run the following command to start the digit recognition interface:
-```sh
-python Handwritten-Digit-Recognizer.py
-```
-A **Tkinter GUI** will appear, allowing you to draw digits and see real-time predictions.
+## Run the Jupyter Notebook:
+   ```sh
+   jupyter notebook Handwritten-Digit-Recognizer.ipynb
+   ```
+## Running in Jupyter Notebook
+- Open lock_screen_pattern.ipynb in Jupyter Notebook.
+- Click Kernel > Restart & Run All to execute all cells automatically.
+- A **Tkinter GUI** will appear, allowing you to draw digits and see real-time predictions.
 
 ## 🎨 How to Use
 1. **Draw a digit** on the canvas using your mouse.
